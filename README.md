@@ -1,2 +1,2 @@
-# tradsys
-a cryptocurrency algorithmic trading system
+# TradSys
+A cryptocurrency algorithmic trading system
